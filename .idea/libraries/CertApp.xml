@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CertApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/run443966950/CertApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
